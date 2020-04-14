@@ -25,3 +25,11 @@ then `source ~/.zshrc`.
 
 # screenshot
 ![screenshot](https://github.com/revir/river-zsh-config/raw/master/screenshot.png)
+
+
+# tips
+git clone
+./install.sh
+./install.sh
+overwrite .zshrc
+chsh -s /bin/zsh
