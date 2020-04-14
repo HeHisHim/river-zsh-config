@@ -28,8 +28,9 @@ then `source ~/.zshrc`.
 
 
 # tips
-git clone
-./install.sh
-./install.sh
-overwrite .zshrc
-chsh -s /bin/zsh
+
+    git clone
+    ./install.sh
+    ./install.sh
+    overwrite .zshrc
+    chsh -s /bin/zsh
